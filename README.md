@@ -6,7 +6,7 @@ Unity 6 (URP) 환경에서 개발한 3D 로켓 시뮬레이션 및 아케이드 
 ## 플레이 화면
 <img width="1919" height="1079" alt="스크린샷 2026-10-22 070946" src="https://github.com/user-attachments/assets/dd3af8f4-e34a-4ba3-9c61-d2aea8244ec4" />
 
-## 🛠️ 개발 환경 및 기술 스택
+##  개발 환경 및 기술 스택
 * **Engine:** Unity 6.3 LTS (6000.3.10f1) - Universal Render Pipeline (URP)
 * **Language:** C#
 
